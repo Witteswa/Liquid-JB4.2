@@ -72,7 +72,7 @@
   <project path="external/astl" name="platform/external/astl" />
   <project path="external/bison" name="platform/external/bison" />
   <project path="external/blktrace" name="platform/external/blktrace" />
-  <project path="external/bluetooth/bluedroid" name="external_bluetooth_bluedroid" remote="ub" revision="jb-mr1" />
+<!--  <project path="external/bluetooth/bluedroid" name="external_bluetooth_bluedroid" remote="ub" revision="jb-mr1" /> -->
   <project path="external/bouncycastle" name="platform/external/bouncycastle" />
   <project path="external/bsdiff" name="platform/external/bsdiff" />
   <project path="external/busybox" name="external_busybox" remote="ub" revision="jb-mr1" />
@@ -371,7 +371,7 @@
   <project path="device/htc/endeavoru" name="mattmanwrx/android_device_htc_endeavoru_ls" remote="github" revision="jb" />
   <project path="frameworks/av" name="adrian-bl-hox-jb/android_frameworks_av" remote="github" revision="jb42" />
   <project path="packages/apps/Camera" name="adrian-bl-hox-jb/android_packages_apps_Camera" remote="github" revision="jb42" /> 
-  <project path="frameworks/native" name="Witteswa/android_frameworks_native" remote="github" revision="master" />
+<!--  <project path="frameworks/native" name="Witteswa/android_frameworks_native" remote="github" revision="master" /> -->
   <project path="external/polly" name="adrian-bl/android_pollyd" remote="github" revision="master" />
   <project path="packages/apps/Polly" name="adrian-bl/android_jpolly" remote="github" revision="master" />
   <project path="external/bluetooth/bluedroid" name="adrian-bl-hox-jb/android_external_bluetooth_bluedroid" remote="github" revision="jb42" />
